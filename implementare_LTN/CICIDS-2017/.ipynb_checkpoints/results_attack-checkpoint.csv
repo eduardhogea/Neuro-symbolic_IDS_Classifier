@@ -1,0 +1,2 @@
+Epoch,train_sat_kb,test_sat_kb,train_accuracy,test_accuracy,test_sat_phi1,test_sat_phi2,test_sat_phi3,test_sat_phi4
+0,nan,nan,0.8333337306976318,0.8333359360694885,nan,nan,nan,nan
